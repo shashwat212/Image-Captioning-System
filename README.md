@@ -1,4 +1,4 @@
-# 🖼️ MyDailyWork_Task4_ImageCaptioning
+# 🖼️ ImageCaptioning System
 
 An **AI-powered Image Captioning system** that automatically generates natural language descriptions for images using **Computer Vision and Natural Language Processing (NLP)**.
 
@@ -58,7 +58,7 @@ Then run the notebook using Jupyter.
 ## 📂 Project Structure
 
 ```
-MyDailyWork_Task4_ImageCaptioning/
+ImageCaptioning/
 │── image_captioning.ipynb   # Main notebook
 │── image.jpg                # Sample image
 │── README.md                # Documentation
