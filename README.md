@@ -1,6 +1,6 @@
-# 🖼️ ImageCaptioning System
+# 🖼️ Image Captioning System
 
-An **AI-powered Image Captioning system** that automatically generates natural language descriptions for images using **Computer Vision and Natural Language Processing (NLP)**.
+**Image Captioning system** that automatically generates natural language descriptions for images using **Computer Vision and Natural Language Processing (NLP)**.
 
 ---
 
